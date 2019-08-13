@@ -1,2 +1,2 @@
 # machine-learning
-machine learning classification using knn algorithm
+Protein Function Prediction using Pseudo Amino Acid Composition Features using KNN algorithm (MACHINE LEARNING).
